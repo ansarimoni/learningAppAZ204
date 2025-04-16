@@ -1,0 +1,7 @@
+D:\AZ204\SampleWebAppSoln\SampleWebAppProj\obj\Release\net8.0\PubTmp\Out\SampleWebAppProj.exe
+D:\AZ204\SampleWebAppSoln\SampleWebAppProj\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\AZ204\SampleWebAppSoln\SampleWebAppProj\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\AZ204\SampleWebAppSoln\SampleWebAppProj\obj\Release\net8.0\PubTmp\Out\SampleWebAppProj.dll
+D:\AZ204\SampleWebAppSoln\SampleWebAppProj\obj\Release\net8.0\PubTmp\Out\SampleWebAppProj.deps.json
+D:\AZ204\SampleWebAppSoln\SampleWebAppProj\obj\Release\net8.0\PubTmp\Out\SampleWebAppProj.runtimeconfig.json
+D:\AZ204\SampleWebAppSoln\SampleWebAppProj\obj\Release\net8.0\PubTmp\Out\SampleWebAppProj.pdb
